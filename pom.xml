@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
  
   <groupId>TDT4100_project</groupId>
-  <artifactId>tdt4100_prosjekt_boilerplate</artifactId>
+  <artifactId>TDT4100_project_boilerplate</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
  
