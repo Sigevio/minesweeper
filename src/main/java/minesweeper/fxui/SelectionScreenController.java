@@ -110,7 +110,7 @@ public class SelectionScreenController {
 		Text text1 = new Text(String.valueOf("YOU LOST!"));
 		Text text2 = new Text(String.valueOf("Retry:"));
 		text1.setTranslateY(-140);
-		text1.setStyle("-fx-font: 20 helvetica;");
+		text1.setStyle("-fx-font: 20 helvetica; -fx-fill: red;");
 		text2.setTranslateY(-120);
 		sp.getChildren().add(text1);
 		sp.getChildren().add(text2);

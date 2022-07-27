@@ -28,7 +28,7 @@
               </rowConstraints>
                <children>
                   <Pane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: lightgreen;" />
-                  <Pane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #5BD84E;" GridPane.rowIndex="1" />
+                  <Pane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: white;" GridPane.rowIndex="1" />
                   <Pane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: lightgreen;" GridPane.rowIndex="2" />
                </children>
             </GridPane>
@@ -75,12 +75,12 @@
             <Text fx:id="highscoreHard" style="-fx-font: 16 helvetica;" text="0" translateX="100" translateY="30.0" />
             <Line endX="300.0" startX="0.0" strokeWidth="2.0">
                <StackPane.margin>
-                  <Insets bottom="101.0" />
+                  <Insets bottom="102.0" />
                </StackPane.margin>
             </Line>
             <Line endX="300.0" startX="0.0" strokeWidth="2.0">
                <StackPane.margin>
-                  <Insets top="110.0" />
+                  <Insets top="107.0" />
                </StackPane.margin>
             </Line>
             <Text fx:id="loadingFailText" text="FILE NOT FOUND!" strokeType="outside" mouseTransparent="true" visible="false" fill="red">
